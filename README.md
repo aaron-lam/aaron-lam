@@ -38,8 +38,8 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 - Infrastructure &nbsp;
-  ![Amazon Web Service](https://img.shields.io/badge/-Amazon Web Services-333333?style=flat&logo=amazon)
-  ![Google Cloud Platform](https://img.shields.io/badge/-Google Cloud Platform%20Cloud-333333?style=flat&logo=google&logoColor=red)
+  ![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazon)
+  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform%20Cloud-333333?style=flat&logo=google&logoColor=red)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github)
 - Proficient Languages &nbsp;
