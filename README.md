@@ -10,26 +10,41 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
 
 <h3>Highlights</h3>
 * Completed 4 SWE internships at enterprises and startups to develop web / mobile applications and infrastructure
+
 * Built a web portal with Java Spring and AWS to visualize terabytes of Amazon economics data model
+
 * Led an engineering team at a startup to develop frontend web apps, GraphQL servers, iOS apps, and pipelines
+
 * Built a full stack UI Comparison tool to avoid shipping 95% of UI bugs to Apptio customers (Fortune 100)
+
 * Developed “T-Mobile Tuesday” Android app which was ranked 1st in Google Play with 10+ million downloads
 
 <h3>Tech Stack</h3>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
