@@ -1,4 +1,4 @@
-<h2> Hey there! This is Aaron.</h2>
+<h2> This is Aaron. Welcome to my GitHub page!</h2>
 
 <h3>About Me</h3>
 
@@ -9,6 +9,7 @@ Outside of school, I have built web / mobile applications, backend services, and
 I also love playing piano and writing technical blog posts (https://aaronlam.us).
 
 <h3>Highlights</h3>
+
 * Completed 4 SWE internships at enterprises and startups to develop web / mobile applications and infrastructure
 
 * Built a web portal with Java Spring and AWS to visualize terabytes of Amazon economics data model
@@ -27,7 +28,7 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 - Backend &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![GraphQL](https://img.shields.io/badge/-Graph%20QL-333333?style=flat&logo=graphql)
+  ![GraphQL](https://img.shields.io/badge/-Graph%20QL-333333?style=flat&logo=graphql&logoColor=magenta)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 - Database &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -37,14 +38,14 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
   ![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 - Infrastructure &nbsp;
-  ![Amazon Web Service](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-  ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google&logoColor=red)
+  ![Amazon Web Service](https://img.shields.io/badge/-Amazon Web Services-333333?style=flat&logo=amazon)
+  ![Google Cloud Platform](https://img.shields.io/badge/-Google Cloud Platform%20Cloud-333333?style=flat&logo=google&logoColor=red)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github)
 - Proficient Languages &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=gold)
 <br/>
 
 <a href="https://github.com/AVS1508">
@@ -62,5 +63,3 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
 <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
