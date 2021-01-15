@@ -1,6 +1,6 @@
 <h2> This is Aaron. Welcome to my GitHub page!</h2>
 
-<h3>About Me</h3>
+<h3>👨‍💻 &nbsp;About Me</h3>
 
 Full stack engineer could be just a myth, but I am still trying my best to become one.
 
@@ -8,7 +8,7 @@ Outside of school, I have built web / mobile applications, backend services, and
 
 I also love playing piano and writing technical blog posts (https://aaronlam.us).
 
-<h3>Highlights</h3>
+<h3>✨ &nbsp;Highlights</h3>
 
 * Completed 4 SWE internships at enterprises and startups to develop web / mobile applications and infrastructure
 
@@ -20,7 +20,7 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
 
 * Developed “T-Mobile Tuesday” Android app which was ranked 1st in Google Play with 10+ million downloads
 
-<h3>Tech Stack</h3>
+<h3>🥞 &nbsp;Tech Stack</h3>
 
 - Frontend &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
