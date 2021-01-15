@@ -24,8 +24,8 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
 
 - Frontend &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=purple)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=orange)
 - Backend &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![GraphQL](https://img.shields.io/badge/-Graph%20QL-333333?style=flat&logo=graphql&logoColor=magenta)
@@ -45,7 +45,7 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
 - Proficient Languages &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=gold)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
 <br/>
 
 <a href="https://github.com/aaron-lam">
