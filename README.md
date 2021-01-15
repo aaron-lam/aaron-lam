@@ -11,13 +11,9 @@ I also love playing piano and writing blog posts (https://aaronlam.us).
 <h3>✨ &nbsp;Highlights</h3>
 
 * Completed 4 SWE internships at enterprises and startups to develop web / mobile applications and infrastructure
-
 * Built a web portal with Java Spring and AWS to visualize terabytes of Amazon economics data model
-
 * Led an engineering team at a startup to develop frontend web apps, GraphQL servers, iOS apps, and pipelines
-
 * Built a full stack UI Comparison tool to avoid shipping 95% of UI bugs to Apptio customers (Fortune 100)
-
 * Developed “T-Mobile Tuesday” Android app which was ranked 1st in Google Play with 10+ million downloads
 
 <h3>🥞 &nbsp;Tech Stack</h3>
