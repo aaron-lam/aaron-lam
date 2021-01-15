@@ -2,14 +2,20 @@
 
 <h3>About Me</h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+Full stack engineer could be just a myth, but I am still trying my best to become one.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+Outside of school, I have built web / mobile applications, backend services, and infrastructure for several enterprises (Amazon, T-Mobile, etc.) and startups.
 
+I also love playing piano and writing technical blog posts (https://aaronlam.us).
+
+<h3>Highlights</h3>
+* Completed 4 SWE internships at enterprises and startups to develop web / mobile applications and infrastructure
+* Built a web portal with Java Spring and AWS to visualize terabytes of Amazon economics data model
+* Led an engineering team at a startup to develop frontend web apps, GraphQL servers, iOS apps, and pipelines
+* Built a full stack UI Comparison tool to avoid shipping 95% of UI bugs to Apptio customers (Fortune 100)
+* Developed “T-Mobile Tuesday” Android app which was ranked 1st in Google Play with 10+ million downloads
+
+<h3>Tech Stack</h3>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
