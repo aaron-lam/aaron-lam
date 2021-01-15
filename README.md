@@ -45,8 +45,8 @@ I also love playing piano and writing blog posts (https://aaronlam.us).
 <br/>
 
 <a href="https://github.com/aaron-lam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaron-lam&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-lam&theme=buefy&layout=compact&hide=html" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaron-lam&theme=synthwave&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-lam&theme=synthwave&layout=compact&hide=html" />
 </a>
 
 <br/>
