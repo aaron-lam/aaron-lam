@@ -6,7 +6,7 @@ Full stack engineer could be just a myth, but I am still trying my best to becom
 
 Outside of school, I have built web / mobile applications, backend services, and infrastructure for several enterprises (Amazon, T-Mobile, etc.) and startups.
 
-I also love playing piano and writing blog posts.
+I also love playing piano and writing blog posts (https://aaronlam.us).
 
 <h3>✨ &nbsp;Highlights</h3>
 
