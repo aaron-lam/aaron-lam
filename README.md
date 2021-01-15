@@ -20,11 +20,11 @@ I also love playing piano and writing technical blog posts (https://aaronlam.us)
 * Developed “T-Mobile Tuesday” Android app which was ranked 1st in Google Play with 10+ million downloads
 
 <h3>Tech Stack</h3>
+
 - Frontend &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-
 - Backend &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![GraphQL](https://img.shields.io/badge/-Graph%20QL-333333?style=flat&logo=graphql)
