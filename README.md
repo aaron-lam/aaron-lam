@@ -55,6 +55,6 @@ I also love playing piano and writing blog posts (https://aaronlam.us).
 
 <p align="center">
 <a href="https://aaronlam.us/"><img alt="Blog" src="https://img.shields.io/badge/Blog-aaronlam.us-darkgreen?style=flat-square&logo=google-chrome&logoColor=darkgreen"></a>
-<a href="https://www.linkedin.com/in/aaronlam1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com-blue/in/aaronlam1-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/aaronlam1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-linkedin.com/in/aaronlam1-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=aaronlam.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aaronlam.dev@gmail.com-red?style=flat-square&logo=gmail"></a>
 </p>
