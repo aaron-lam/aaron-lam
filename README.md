@@ -2,15 +2,12 @@
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
-Full stack engineer could be just a myth, but I am still trying my best to become one.
+I build web / mobile applications, backend services, and infrastructure for enterprises and startups.
 
-Outside of school, I have built web / mobile applications, backend services, and infrastructure for several enterprises (Amazon, T-Mobile, etc.) and startups.
-
-I also love playing piano and writing blog posts (https://aaronlam.us).
+Currently working at TikTok Frontend team.
 
 <h3>✨ &nbsp;Highlights</h3>
 
-* Completed 4 SWE internships at enterprises and startups to develop web / mobile applications and infrastructure
 * Built a web portal with Java Spring and AWS to visualize terabytes of Amazon Economics data model
 * Led an engineering team at a startup to develop frontend web apps, GraphQL servers, iOS apps, and pipelines
 * Built a full stack UI Comparison tool to avoid shipping 95% of UI bugs to Apptio customers (Fortune 100)
