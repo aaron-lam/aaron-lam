@@ -17,14 +17,17 @@ Currently working at TikTok Frontend team.
 
 - Frontend: &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=purple)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=blueviolet)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=orange)
+  ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
 - Backend: &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![GraphQL](https://img.shields.io/badge/-Graph%20QL-333333?style=flat&logo=graphql&logoColor=magenta)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=magenta)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 - Database: &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server&logoColor=red)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - Mobile: &nbsp;
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
