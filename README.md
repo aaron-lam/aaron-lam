@@ -8,6 +8,7 @@ Currently working at TikTok Ecosystem Platform team.
 
 <h3>✨ &nbsp;Highlights</h3>
 
+* Owned and developed full stack products at TikTok, including penalty center, CRM, creator center, MCN, etc.
 * Built a web portal with Java Spring and AWS to visualize terabytes of Amazon Economics data model
 * Led an engineering team at a startup to develop frontend web apps, GraphQL servers, iOS apps, and pipelines
 * Built a full stack UI Comparison tool to avoid shipping 95% of UI bugs to Apptio customers (Fortune 100)
