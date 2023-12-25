@@ -4,7 +4,7 @@
 
 I build web / mobile applications, backend services, and infrastructure for enterprises and startups.
 
-Currently working at TikTok creator growth team.
+Currently working at TikTok Ecosystem Platform team.
 
 <h3>✨ &nbsp;Highlights</h3>
 
