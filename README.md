@@ -42,7 +42,7 @@ Currently working at TikTok Ecosystem Platform team to enhance the content moder
 - Proficient Languages: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
   ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
 <br/>
 
