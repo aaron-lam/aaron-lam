@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
-I have 3+ years of professional experience in building full stack mobile / web products.
+I have 4+ years of professional experience in building full stack mobile / web products.
 
 Currently working at TikTok Ecosystem Platform team to enhance the content moderation experience.
 
