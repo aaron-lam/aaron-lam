@@ -6,14 +6,6 @@ I have 4+ years of professional experience in building full stack mobile / web p
 
 Currently working at TikTok Ecosystem Platform team to build solutions for content ecosystem strategies, including growth, moderation, risk management, etc.
 
-<h3>✨ &nbsp;Highlights</h3>
-
-* Owned and developed full stack products at TikTok, including penalty center, CRM, creator center, MCN, etc.
-* Built a web portal with Java Spring at Amazon to visualize terabytes of Economics data model
-* Led an engineering team at a startup to develop frontend web apps, GraphQL servers, iOS apps, and pipelines
-* Built a full stack UI Comparison tool to avoid shipping 95% of UI bugs to Fortune 100 customers
-* Developed “T-Mobile Tuesday” Android app which was ranked 1st in Google Play with 10+ million downloads
-
 <h3>🥞 &nbsp;Tech Stack</h3>
 
 - Frontend: &nbsp;
