@@ -4,7 +4,7 @@
 
 I have 4+ years of professional experience in building full stack mobile / web products.
 
-Currently working at TikTok Ecosystem Platform team to build solutions for content ecosystem strategies, including growth, moderation, risk management, etc.
+Currently building https://thumbtack.com/ for user growth, user acquisition, and SEO.
 
 <h3>🥞 &nbsp;Tech Stack</h3>
 
