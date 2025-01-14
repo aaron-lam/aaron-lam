@@ -2,9 +2,9 @@
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
-I have 4+ years of professional experience in building full stack mobile / web products.
+I have 4+ years of professional experience in building full stack web products in user growth domain.
 
-Currently building https://thumbtack.com/ for user growth, user acquisition, and SEO.
+Currently optimizing thumbtack.com to boost conversion rate and SEO.
 
 <h3>🥞 &nbsp;Tech Stack</h3>
 
