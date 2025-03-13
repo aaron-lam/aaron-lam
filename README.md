@@ -1,4 +1,4 @@
-<h2> This is Aaron. A full stack engineer specialized in Frontend. </h2>
+<h2> This is Aaron. A full stack engineer specialized in user growth domain. </h2>
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
